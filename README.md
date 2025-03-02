@@ -22,7 +22,7 @@ To get started with this project, follow these steps:
 Clone the Repository:
 
   ```bash
-git clone https://github.com/yourusername/cats-vs-dogs-svm.git
+git clone https://github.com/atharva1845/cats-vs-dogs-svm.git
 cd cats-vs-dogs-svm
   ```
 Set Up a Virtual Environment:
