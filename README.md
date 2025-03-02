@@ -83,6 +83,7 @@ Create a simple web application for real-time image classification.
 
 Contributing 🤝
 Contributions are welcome! If you have ideas for improvements or additional features, please open an issue or submit a pull request. Your contributions will help make this project even better.
+ 
  Connect with Me 📧 Email: atharva2004.rajoba@gmail.com 🔗 LinkedIn: www.linkedin.com/in/atharva-rajoba
 
 📌 Star this repository ⭐ if you found it useful! 🚀
